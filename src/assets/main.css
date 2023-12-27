@@ -1,0 +1,10 @@
+/* 在你的全局CSS文件中添加以下样式 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  html, body {
+    height: 100%;
+    overflow: hidden; /* 这可以防止页面出现滚动条 */
+  }
